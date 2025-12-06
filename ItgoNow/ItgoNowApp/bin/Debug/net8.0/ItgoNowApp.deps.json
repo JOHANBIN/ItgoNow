@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ItgoNowApp/1.0.0": {
+        "runtime": {
+          "ItgoNowApp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ItgoNowApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

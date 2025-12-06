@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "K+vt8XTGwX0=",
+  "dgSpecHash": "+bOxT9T0Ruo=",
   "success": true,
-  "projectFilePath": "C:\\Users\\chohb\\source\\repos\\ItgoNow\\ItgoNow\\ItgoNow.csproj",
+  "projectFilePath": "C:\\Users\\chohb\\Documents\\ItgoNow\\ItgoNow\\ItgoNow\\ItgoNowClient.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\chohb\\.nuget\\packages\\microsoft.aspnetcore.authorization\\8.0.11\\microsoft.aspnetcore.authorization.8.0.11.nupkg.sha512",
     "C:\\Users\\chohb\\.nuget\\packages\\microsoft.aspnetcore.components\\8.0.11\\microsoft.aspnetcore.components.8.0.11.nupkg.sha512",

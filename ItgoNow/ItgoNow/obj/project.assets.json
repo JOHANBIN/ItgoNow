@@ -1855,11 +1855,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\chohb\\source\\repos\\ItgoNow\\ItgoNow\\ItgoNow.csproj",
-      "projectName": "ItgoNow",
-      "projectPath": "C:\\Users\\chohb\\source\\repos\\ItgoNow\\ItgoNow\\ItgoNow.csproj",
+      "projectUniqueName": "C:\\Users\\chohb\\Documents\\ItgoNow\\ItgoNow\\ItgoNow\\ItgoNowClient.csproj",
+      "projectName": "ItgoNowClient",
+      "projectPath": "C:\\Users\\chohb\\Documents\\ItgoNow\\ItgoNow\\ItgoNow\\ItgoNowClient.csproj",
       "packagesPath": "C:\\Users\\chohb\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\chohb\\source\\repos\\ItgoNow\\ItgoNow\\obj\\",
+      "outputPath": "C:\\Users\\chohb\\Documents\\ItgoNow\\ItgoNow\\ItgoNow\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

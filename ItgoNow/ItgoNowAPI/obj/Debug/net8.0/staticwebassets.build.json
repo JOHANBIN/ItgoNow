@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "GorJJ2KHGYJL05FaSl+xYFb1ugSC5HRQbhA7Mt8tiiQ=",
+  "Source": "ItgoNowAPI",
+  "BasePath": "_content/ItgoNowAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

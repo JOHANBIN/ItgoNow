@@ -1,0 +1,45 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\chohb\\Documents\\ItgoNow\\ItgoNow\\ItgoNowApp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\ItgoNowApp.bundle.scp.css",
+      "PackagePath": "staticwebassets\\ItgoNowApp.rn4pwjrhxq.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\chohb\\Documents\\ItgoNow\\ItgoNow\\ItgoNowApp\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\chohb\\Documents\\ItgoNow\\ItgoNow\\ItgoNowApp\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\chohb\\Documents\\ItgoNow\\ItgoNow\\ItgoNowApp\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\chohb\\Documents\\ItgoNow\\ItgoNow\\ItgoNowApp\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.ItgoNowApp.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.ItgoNowApp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.ItgoNowApp.props",
+      "PackagePath": "build\\ItgoNowApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.ItgoNowApp.props",
+      "PackagePath": "buildMultiTargeting\\ItgoNowApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.ItgoNowApp.props",
+      "PackagePath": "buildTransitive\\ItgoNowApp.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
