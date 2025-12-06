@@ -1020,9 +1020,6 @@ C:\Users\chohb\Documents\ItgoNow\ItgoNow\ItgoNow\obj\Debug\net8.0\compressed\by9
 C:\Users\chohb\Documents\ItgoNow\ItgoNow\ItgoNow\obj\Debug\net8.0\compressed\jpobjuyqk6-tptq2av103.gz
 C:\Users\chohb\Documents\ItgoNow\ItgoNow\ItgoNow\obj\Debug\net8.0\compressed\kkm7iaacz7-lfu7j35m59.gz
 C:\Users\chohb\Documents\ItgoNow\ItgoNow\ItgoNow\obj\Debug\net8.0\compressed\joijpvyzgh-oyz0vx2fzb.gz
-C:\Users\chohb\Documents\ItgoNow\ItgoNow\ItgoNow\obj\Debug\net8.0\compressed\1u73i3cejb-jaiuuaaohr.gz
-C:\Users\chohb\Documents\ItgoNow\ItgoNow\ItgoNow\obj\Debug\net8.0\compressed\dn1g4wk8r1-4vcpgog7r4.gz
-C:\Users\chohb\Documents\ItgoNow\ItgoNow\ItgoNow\obj\Debug\net8.0\compressed\skmi71m7j7-cz6woapv53.gz
 C:\Users\chohb\Documents\ItgoNow\ItgoNow\ItgoNow\obj\Debug\net8.0\staticwebassets.build.json
 C:\Users\chohb\Documents\ItgoNow\ItgoNow\ItgoNow\obj\Debug\net8.0\staticwebassets.development.json
 C:\Users\chohb\Documents\ItgoNow\ItgoNow\ItgoNow\obj\Debug\net8.0\staticwebassets.build.endpoints.json
@@ -1038,3 +1035,6 @@ C:\Users\chohb\Documents\ItgoNow\ItgoNow\ItgoNow\obj\Debug\net8.0\ItgoNowClient.
 C:\Users\chohb\Documents\ItgoNow\ItgoNow\ItgoNow\obj\Debug\net8.0\refint\ItgoNowClient.dll
 C:\Users\chohb\Documents\ItgoNow\ItgoNow\ItgoNow\obj\Debug\net8.0\ItgoNowClient.pdb
 C:\Users\chohb\Documents\ItgoNow\ItgoNow\ItgoNow\obj\Debug\net8.0\ref\ItgoNowClient.dll
+C:\Users\chohb\Documents\ItgoNow\ItgoNow\ItgoNow\obj\Debug\net8.0\compressed\1u73i3cejb-izrwcdeu5s.gz
+C:\Users\chohb\Documents\ItgoNow\ItgoNow\ItgoNow\obj\Debug\net8.0\compressed\dn1g4wk8r1-rtu4eujysu.gz
+C:\Users\chohb\Documents\ItgoNow\ItgoNow\ItgoNow\obj\Debug\net8.0\compressed\skmi71m7j7-0m0b7numrw.gz

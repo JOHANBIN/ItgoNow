@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "jeG7/nsraTmHkY/87XYm+RabCge1vN7GuSA2MdCzlno=",
+  "Hash": "UQBXDo7fun2SMkO7hM9B+NODmjoVCLdh4+mP+NM+YFo=",
   "Source": "ItgoNowClient",
   "BasePath": "/",
   "Mode": "Root",
@@ -31,8 +31,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "manifest",
-      "Fingerprint": "cz6woapv53",
-      "Integrity": "WLsr9BKoXL5Bi78biKlkhMBMKRS6/4P1WtGiPh0r66w=",
+      "Fingerprint": "0m0b7numrw",
+      "Integrity": "KKW3DAda8vG/DW3hMrM8BYqFd1Mnl2Ffz4FjWKQwSuY=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "obj\\Debug\\net8.0\\blazor.boot.json"
@@ -283,8 +283,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "symbol",
-      "Fingerprint": "4vcpgog7r4",
-      "Integrity": "oMKU5mhuWCaSsyEaJlaIUZxEE1qbCrs+svOGieFnMNI=",
+      "Fingerprint": "rtu4eujysu",
+      "Integrity": "DytAbzqyn+APtr7/+kLPj7DwJQOuqhygXBvfZuo9QUI=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "obj\\Debug\\net8.0\\ItgoNowClient.pdb"
@@ -304,8 +304,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "runtime",
-      "Fingerprint": "jaiuuaaohr",
-      "Integrity": "G55q7i7fQ4UdzWIB8aSeiHNwgA7Fae3ucZFM68plzW8=",
+      "Fingerprint": "izrwcdeu5s",
+      "Integrity": "rpUokuFaMyR8B5Av9HObJN4huycuiEEkKast1aPzmMI=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\chohb\\Documents\\ItgoNow\\ItgoNow\\ItgoNow\\obj\\Debug\\net8.0\\webcil\\ItgoNowClient.wasm"
@@ -4574,7 +4574,7 @@
       "OriginalItemSpec": "C:\\Users\\chohb\\Documents\\ItgoNow\\ItgoNow\\ItgoNow\\bin\\Debug\\net8.0\\wwwroot\\_framework\\Microsoft.Extensions.Options.wasm"
     },
     {
-      "Identity": "C:\\Users\\chohb\\Documents\\ItgoNow\\ItgoNow\\ItgoNow\\obj\\Debug\\net8.0\\compressed\\1u73i3cejb-jaiuuaaohr.gz",
+      "Identity": "C:\\Users\\chohb\\Documents\\ItgoNow\\ItgoNow\\ItgoNow\\obj\\Debug\\net8.0\\compressed\\1u73i3cejb-izrwcdeu5s.gz",
       "SourceId": "ItgoNowClient",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\chohb\\Documents\\ItgoNow\\ItgoNow\\ItgoNow\\obj\\Debug\\net8.0\\compressed\\",
@@ -4588,8 +4588,8 @@
       "RelatedAsset": "C:\\Users\\chohb\\Documents\\ItgoNow\\ItgoNow\\ItgoNow\\bin\\Debug\\net8.0\\wwwroot\\_framework\\ItgoNowClient.wasm",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "w76edlmmpu",
-      "Integrity": "BGij+DXRJKz86A2FkkYeM34mQ5AIfVhAhfolvXZeKG0=",
+      "Fingerprint": "sqgw3jb6u7",
+      "Integrity": "PKTs3ToxD52iBxXzKspPyWyxr12wPSAIEx5QRBoseF4=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\chohb\\Documents\\ItgoNow\\ItgoNow\\ItgoNow\\bin\\Debug\\net8.0\\wwwroot\\_framework\\ItgoNowClient.wasm"
@@ -5918,7 +5918,7 @@
       "OriginalItemSpec": "C:\\Users\\chohb\\Documents\\ItgoNow\\ItgoNow\\ItgoNow\\bin\\Debug\\net8.0\\wwwroot\\_framework\\Microsoft.JSInterop.wasm"
     },
     {
-      "Identity": "C:\\Users\\chohb\\Documents\\ItgoNow\\ItgoNow\\ItgoNow\\obj\\Debug\\net8.0\\compressed\\dn1g4wk8r1-4vcpgog7r4.gz",
+      "Identity": "C:\\Users\\chohb\\Documents\\ItgoNow\\ItgoNow\\ItgoNow\\obj\\Debug\\net8.0\\compressed\\dn1g4wk8r1-rtu4eujysu.gz",
       "SourceId": "ItgoNowClient",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\chohb\\Documents\\ItgoNow\\ItgoNow\\ItgoNow\\obj\\Debug\\net8.0\\compressed\\",
@@ -5932,8 +5932,8 @@
       "RelatedAsset": "C:\\Users\\chohb\\Documents\\ItgoNow\\ItgoNow\\ItgoNow\\bin\\Debug\\net8.0\\wwwroot\\_framework\\ItgoNowClient.pdb",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "r3uh17wkt6",
-      "Integrity": "WTDbQiR74lqyXCIkOfqxugTm4jCzw3milPhtuVJNmo0=",
+      "Fingerprint": "ps75lj00uo",
+      "Integrity": "R+jJu7yGg3z0XE+l9ggHJk1tmdsNNYwPdMUQDpuHzoQ=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\chohb\\Documents\\ItgoNow\\ItgoNow\\ItgoNow\\bin\\Debug\\net8.0\\wwwroot\\_framework\\ItgoNowClient.pdb"
@@ -7682,7 +7682,7 @@
       "OriginalItemSpec": "C:\\Users\\chohb\\Documents\\ItgoNow\\ItgoNow\\ItgoNow\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.IO.Compression.wasm"
     },
     {
-      "Identity": "C:\\Users\\chohb\\Documents\\ItgoNow\\ItgoNow\\ItgoNow\\obj\\Debug\\net8.0\\compressed\\skmi71m7j7-cz6woapv53.gz",
+      "Identity": "C:\\Users\\chohb\\Documents\\ItgoNow\\ItgoNow\\ItgoNow\\obj\\Debug\\net8.0\\compressed\\skmi71m7j7-0m0b7numrw.gz",
       "SourceId": "ItgoNowClient",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\chohb\\Documents\\ItgoNow\\ItgoNow\\ItgoNow\\obj\\Debug\\net8.0\\compressed\\",
@@ -7696,8 +7696,8 @@
       "RelatedAsset": "C:\\Users\\chohb\\Documents\\ItgoNow\\ItgoNow\\ItgoNow\\bin\\Debug\\net8.0\\wwwroot\\_framework\\blazor.boot.json",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "vm5td5gojy",
-      "Integrity": "Od2msVwX4WqyYbvjopY/cy0xNNNqr/MBlaucNtjoqe0=",
+      "Fingerprint": "cn7om65zv9",
+      "Integrity": "SAWK2FiHUP63j3EzUYnPV9d5DU9m3Vc8ByBKV6T6iYs=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\chohb\\Documents\\ItgoNow\\ItgoNow\\ItgoNow\\bin\\Debug\\net8.0\\wwwroot\\_framework\\blazor.boot.json"
@@ -8828,7 +8828,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "19626"
+          "Value": "19644"
         },
         {
           "Name": "Content-Type",
@@ -8836,11 +8836,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"WLsr9BKoXL5Bi78biKlkhMBMKRS6/4P1WtGiPh0r66w=\""
+          "Value": "\"KKW3DAda8vG/DW3hMrM8BYqFd1Mnl2Ffz4FjWKQwSuY=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 06 Dec 2025 08:27:34 GMT"
+          "Value": "Sat, 06 Dec 2025 08:40:57 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -8850,18 +8850,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-WLsr9BKoXL5Bi78biKlkhMBMKRS6/4P1WtGiPh0r66w="
+          "Value": "sha256-KKW3DAda8vG/DW3hMrM8BYqFd1Mnl2Ffz4FjWKQwSuY="
         }
       ]
     },
     {
       "Route": "_framework/blazor.boot.json",
-      "AssetFile": "C:\\Users\\chohb\\Documents\\ItgoNow\\ItgoNow\\ItgoNow\\obj\\Debug\\net8.0\\compressed\\skmi71m7j7-cz6woapv53.gz",
+      "AssetFile": "C:\\Users\\chohb\\Documents\\ItgoNow\\ItgoNow\\ItgoNow\\obj\\Debug\\net8.0\\compressed\\skmi71m7j7-0m0b7numrw.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000112828613"
+          "Quality": "0.000112892301"
         }
       ],
       "ResponseHeaders": [
@@ -8871,15 +8871,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "8862"
+          "Value": "8857"
         },
         {
           "Name": "ETag",
-          "Value": "\"Od2msVwX4WqyYbvjopY/cy0xNNNqr/MBlaucNtjoqe0=\""
+          "Value": "\"SAWK2FiHUP63j3EzUYnPV9d5DU9m3Vc8ByBKV6T6iYs=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 06 Dec 2025 08:07:13 GMT"
+          "Value": "Sat, 06 Dec 2025 08:37:14 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -8899,19 +8899,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"WLsr9BKoXL5Bi78biKlkhMBMKRS6/4P1WtGiPh0r66w=\""
+          "Value": "W/\"KKW3DAda8vG/DW3hMrM8BYqFd1Mnl2Ffz4FjWKQwSuY=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-WLsr9BKoXL5Bi78biKlkhMBMKRS6/4P1WtGiPh0r66w="
+          "Value": "sha256-KKW3DAda8vG/DW3hMrM8BYqFd1Mnl2Ffz4FjWKQwSuY="
         }
       ]
     },
     {
       "Route": "_framework/blazor.boot.json.gz",
-      "AssetFile": "C:\\Users\\chohb\\Documents\\ItgoNow\\ItgoNow\\ItgoNow\\obj\\Debug\\net8.0\\compressed\\skmi71m7j7-cz6woapv53.gz",
+      "AssetFile": "C:\\Users\\chohb\\Documents\\ItgoNow\\ItgoNow\\ItgoNow\\obj\\Debug\\net8.0\\compressed\\skmi71m7j7-0m0b7numrw.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8920,7 +8920,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "8862"
+          "Value": "8857"
         },
         {
           "Name": "Content-Type",
@@ -8928,11 +8928,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Od2msVwX4WqyYbvjopY/cy0xNNNqr/MBlaucNtjoqe0=\""
+          "Value": "\"SAWK2FiHUP63j3EzUYnPV9d5DU9m3Vc8ByBKV6T6iYs=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 06 Dec 2025 08:07:13 GMT"
+          "Value": "Sat, 06 Dec 2025 08:37:14 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -8950,7 +8950,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-Od2msVwX4WqyYbvjopY/cy0xNNNqr/MBlaucNtjoqe0="
+          "Value": "sha256-SAWK2FiHUP63j3EzUYnPV9d5DU9m3Vc8ByBKV6T6iYs="
         }
       ]
     },
@@ -10480,11 +10480,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"oMKU5mhuWCaSsyEaJlaIUZxEE1qbCrs+svOGieFnMNI=\""
+          "Value": "\"DytAbzqyn+APtr7/+kLPj7DwJQOuqhygXBvfZuo9QUI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 06 Dec 2025 08:27:33 GMT"
+          "Value": "Sat, 06 Dec 2025 08:40:56 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10494,18 +10494,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-oMKU5mhuWCaSsyEaJlaIUZxEE1qbCrs+svOGieFnMNI="
+          "Value": "sha256-DytAbzqyn+APtr7/+kLPj7DwJQOuqhygXBvfZuo9QUI="
         }
       ]
     },
     {
       "Route": "_framework/ItgoNowClient.pdb",
-      "AssetFile": "C:\\Users\\chohb\\Documents\\ItgoNow\\ItgoNow\\ItgoNow\\obj\\Debug\\net8.0\\compressed\\dn1g4wk8r1-4vcpgog7r4.gz",
+      "AssetFile": "C:\\Users\\chohb\\Documents\\ItgoNow\\ItgoNow\\ItgoNow\\obj\\Debug\\net8.0\\compressed\\dn1g4wk8r1-rtu4eujysu.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000058969218"
+          "Quality": "0.000058965741"
         }
       ],
       "ResponseHeaders": [
@@ -10515,15 +10515,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "16957"
+          "Value": "16958"
         },
         {
           "Name": "ETag",
-          "Value": "\"WTDbQiR74lqyXCIkOfqxugTm4jCzw3milPhtuVJNmo0=\""
+          "Value": "\"R+jJu7yGg3z0XE+l9ggHJk1tmdsNNYwPdMUQDpuHzoQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 06 Dec 2025 08:27:34 GMT"
+          "Value": "Sat, 06 Dec 2025 08:37:14 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10543,19 +10543,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"oMKU5mhuWCaSsyEaJlaIUZxEE1qbCrs+svOGieFnMNI=\""
+          "Value": "W/\"DytAbzqyn+APtr7/+kLPj7DwJQOuqhygXBvfZuo9QUI=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-oMKU5mhuWCaSsyEaJlaIUZxEE1qbCrs+svOGieFnMNI="
+          "Value": "sha256-DytAbzqyn+APtr7/+kLPj7DwJQOuqhygXBvfZuo9QUI="
         }
       ]
     },
     {
       "Route": "_framework/ItgoNowClient.pdb.gz",
-      "AssetFile": "C:\\Users\\chohb\\Documents\\ItgoNow\\ItgoNow\\ItgoNow\\obj\\Debug\\net8.0\\compressed\\dn1g4wk8r1-4vcpgog7r4.gz",
+      "AssetFile": "C:\\Users\\chohb\\Documents\\ItgoNow\\ItgoNow\\ItgoNow\\obj\\Debug\\net8.0\\compressed\\dn1g4wk8r1-rtu4eujysu.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10564,7 +10564,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "16957"
+          "Value": "16958"
         },
         {
           "Name": "Content-Type",
@@ -10572,11 +10572,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"WTDbQiR74lqyXCIkOfqxugTm4jCzw3milPhtuVJNmo0=\""
+          "Value": "\"R+jJu7yGg3z0XE+l9ggHJk1tmdsNNYwPdMUQDpuHzoQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 06 Dec 2025 08:27:34 GMT"
+          "Value": "Sat, 06 Dec 2025 08:37:14 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10594,7 +10594,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-WTDbQiR74lqyXCIkOfqxugTm4jCzw3milPhtuVJNmo0="
+          "Value": "sha256-R+jJu7yGg3z0XE+l9ggHJk1tmdsNNYwPdMUQDpuHzoQ="
         }
       ]
     },
@@ -10617,11 +10617,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"G55q7i7fQ4UdzWIB8aSeiHNwgA7Fae3ucZFM68plzW8=\""
+          "Value": "\"rpUokuFaMyR8B5Av9HObJN4huycuiEEkKast1aPzmMI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 06 Dec 2025 08:27:33 GMT"
+          "Value": "Sat, 06 Dec 2025 08:40:56 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10631,13 +10631,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-G55q7i7fQ4UdzWIB8aSeiHNwgA7Fae3ucZFM68plzW8="
+          "Value": "sha256-rpUokuFaMyR8B5Av9HObJN4huycuiEEkKast1aPzmMI="
         }
       ]
     },
     {
       "Route": "_framework/ItgoNowClient.wasm",
-      "AssetFile": "C:\\Users\\chohb\\Documents\\ItgoNow\\ItgoNow\\ItgoNow\\obj\\Debug\\net8.0\\compressed\\1u73i3cejb-jaiuuaaohr.gz",
+      "AssetFile": "C:\\Users\\chohb\\Documents\\ItgoNow\\ItgoNow\\ItgoNow\\obj\\Debug\\net8.0\\compressed\\1u73i3cejb-izrwcdeu5s.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -10656,11 +10656,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"BGij+DXRJKz86A2FkkYeM34mQ5AIfVhAhfolvXZeKG0=\""
+          "Value": "\"PKTs3ToxD52iBxXzKspPyWyxr12wPSAIEx5QRBoseF4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 06 Dec 2025 08:27:34 GMT"
+          "Value": "Sat, 06 Dec 2025 08:27:33 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10680,19 +10680,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"G55q7i7fQ4UdzWIB8aSeiHNwgA7Fae3ucZFM68plzW8=\""
+          "Value": "W/\"rpUokuFaMyR8B5Av9HObJN4huycuiEEkKast1aPzmMI=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-G55q7i7fQ4UdzWIB8aSeiHNwgA7Fae3ucZFM68plzW8="
+          "Value": "sha256-rpUokuFaMyR8B5Av9HObJN4huycuiEEkKast1aPzmMI="
         }
       ]
     },
     {
       "Route": "_framework/ItgoNowClient.wasm.gz",
-      "AssetFile": "C:\\Users\\chohb\\Documents\\ItgoNow\\ItgoNow\\ItgoNow\\obj\\Debug\\net8.0\\compressed\\1u73i3cejb-jaiuuaaohr.gz",
+      "AssetFile": "C:\\Users\\chohb\\Documents\\ItgoNow\\ItgoNow\\ItgoNow\\obj\\Debug\\net8.0\\compressed\\1u73i3cejb-izrwcdeu5s.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10709,11 +10709,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"BGij+DXRJKz86A2FkkYeM34mQ5AIfVhAhfolvXZeKG0=\""
+          "Value": "\"PKTs3ToxD52iBxXzKspPyWyxr12wPSAIEx5QRBoseF4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 06 Dec 2025 08:27:34 GMT"
+          "Value": "Sat, 06 Dec 2025 08:27:33 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10731,7 +10731,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-BGij+DXRJKz86A2FkkYeM34mQ5AIfVhAhfolvXZeKG0="
+          "Value": "sha256-PKTs3ToxD52iBxXzKspPyWyxr12wPSAIEx5QRBoseF4="
         }
       ]
     },
